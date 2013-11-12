@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04078EA8-F233-46FB-B409-6C59A2619CA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CITest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E23B48BC-ACDD-4B79-990B-914B3B9CD1B8</key>
+		<string>https://github.com/Alterplay/CITest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CITest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E23B48BC-ACDD-4B79-990B-914B3B9CD1B8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Alterplay/CITest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E23B48BC-ACDD-4B79-990B-914B3B9CD1B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E23B48BC-ACDD-4B79-990B-914B3B9CD1B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CITest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
