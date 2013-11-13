@@ -330,8 +330,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Alterplay Team (TAXY25HHFL)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alterplay Team (TAXY25HHFL)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Alterplay Automator (K33HR6C4QQ)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -349,7 +348,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "0C8B3011-7C64-4830-BA9B-BAFB0493E2E3";
+				PROVISIONING_PROFILE = "7E0208E0-2552-4B69-85A6-21ACF0E9D70F";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -372,8 +371,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Alterplay Team (TAXY25HHFL)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Alterplay Team (TAXY25HHFL)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Alterplay Automator (K33HR6C4QQ)";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -384,7 +382,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				PROVISIONING_PROFILE = "0C8B3011-7C64-4830-BA9B-BAFB0493E2E3";
+				PROVISIONING_PROFILE = "7E0208E0-2552-4B69-85A6-21ACF0E9D70F";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -396,7 +394,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CITest/CITest-Prefix.pch";
 				INFOPLIST_FILE = "CITest/CITest-Info.plist";
@@ -410,7 +407,6 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CITest/CITest-Prefix.pch";
 				INFOPLIST_FILE = "CITest/CITest-Info.plist";
@@ -471,7 +467,7 @@
 				F9ABB7851832183D004E161A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F9ABB7861832183D004E161A /* Build configuration list for PBXNativeTarget "CITest" */ = {
 			isa = XCConfigurationList;
@@ -480,7 +476,7 @@
 				F9ABB7881832183D004E161A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		F9ABB7891832183D004E161A /* Build configuration list for PBXNativeTarget "CITestTests" */ = {
 			isa = XCConfigurationList;
@@ -489,7 +485,7 @@
 				F9ABB78B1832183D004E161A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
